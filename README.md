@@ -2,8 +2,8 @@
 
 This is a basic python programming project utlilizing:
 
-# python 
-# git 
-# GitHub
-# image (emoji)
+* python 
+* git 
+* GitHub
+* image (emoji)
 🏃‍♀️
