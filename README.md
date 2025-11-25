@@ -1,4 +1,4 @@
-PYTHON PROGRAMMING - Terminal Project
+## PYTHON PROGRAMMING - Terminal Project
 
 This is a basic python programming project utlilizing:
 
