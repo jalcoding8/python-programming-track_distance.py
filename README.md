@@ -2,6 +2,6 @@
 
 This is a basic python programming project utlilizing:
 
-python 
-git 
-GitHub
+* python 
+* git 
+* GitHub
