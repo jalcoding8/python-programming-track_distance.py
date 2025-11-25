@@ -19,14 +19,14 @@ I noticed there are now two options for the PAT:
 1) fine-grained tokens (new)
 2) Tokens (classic - the original)
 
-I opted to generate the new fine-grained token.  And, ofcourse, copied the new token to save and use again.
+I opted to generate the new fine-grained token.  And, of course, copied the new token to save and use again.  I set my own expiration date, which is an option, but there is a default expiration in place.
 The problem(s) came when I attempted to use git to add and commit my vs code (local repository) to github (remote repository).
 
 I was unsuccessful and received numerous errors:
-1). 403
-2). permission denied
-3). user not recognized
-4). and some others !!!
+* 1). 403
+* 2). permission denied
+* 3). user not recognized
+* 4). and some others !!!
 
 And here is why it's good to build programs, and do projects, and use a text editor (vs code, sublime, Atom, whatever) with git and github. 
 
